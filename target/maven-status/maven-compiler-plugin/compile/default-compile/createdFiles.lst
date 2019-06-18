@@ -1,0 +1,4 @@
+com/example/BX/AtelierBX/controllers/BookController.class
+com/example/BX/AtelierBX/entities/Book.class
+com/example/BX/AtelierBX/AtelierBxApplication.class
+com/example/BX/AtelierBX/repositories/BookRepository.class
